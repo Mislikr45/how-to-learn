@@ -57,10 +57,12 @@
   font-weight: normal;
   z-index: 10;
 }
+
 .header__link {
   color: #2f80ed;
   text-decoration: none;
 }
+
 .header__main-illustration {
   height: 658px;
   width:  765px;
@@ -72,7 +74,6 @@
   bottom: 0;
   z-index: 2;
 }
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 
 .header_square-pic {
   height: 568px;
@@ -131,7 +132,6 @@
   font-weight: 900;
   padding: 0;
 }
-
 
 /*  digits */
 .digits {
@@ -272,8 +272,6 @@ font-weight: normal;
 
 .table_theme_dark {
   z-index: 2;
-
-
 }
 
 .table__cell_theme_dark {
@@ -338,6 +336,7 @@ flex-basis: 711px;
   font-size: 18px;
   font-weight: normal;
 }
+
 .footer__column-heading {
   margin: 0;
 }
