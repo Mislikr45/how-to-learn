@@ -204,7 +204,6 @@
   min-height: 890px;
   box-sizing: border-box;
   background: url(../images/feynman.png) no-repeat left bottom  #F2F2F2;
-  background-size:auto;
   background-repeat: no-repeat;
   background-position: left bottom;
   background-color: #f2f2f2;
@@ -304,10 +303,10 @@
 }
 
 .footer__author {
+  margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin: 0;
 }
 
 .footer__column-heading {
@@ -332,7 +331,7 @@
   font-weight: normal;
 }
 
-.footer_social_icon {
+.footer__social_icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
