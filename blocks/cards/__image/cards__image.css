@@ -1,0 +1,27 @@
+.cards__image {
+    margin: auto;
+    width: 160px;
+    height: 160px;
+    background-size: cover;
+    border-radius: 160px;
+}
+
+.cards__item:nth-child(1) .cards__image {
+    background-image: url('../../../images/cards-attention.png');
+  }
+  
+.cards__item:nth-child(2) .cards__image {
+    background-image: url('../../../images/cards-recall.png');
+}
+  
+.cards__item:nth-child(3) .cards__image {
+    background-image: url('../../../images/cards-interliving.png');
+}
+  
+.cards__item:nth-child(4) .cards__image {
+    background-image: url('../../../images/cards-question.png');
+}
+  
+.cards__item:nth-child(5) .cards__image {
+    background-image: url('../../../images/cards-competence.png');
+}
