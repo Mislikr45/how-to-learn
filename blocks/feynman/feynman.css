@@ -1,10 +1,10 @@
 .feynman {
-    padding-top: 100px;
-    position: relative;
-    min-height: 890px;
-    box-sizing: border-box;
-    background: url(../../images/feynman.png) no-repeat left bottom  #F2F2F2;
-    background-repeat: no-repeat;
-    background-position: left bottom;
-    background-color: #f2f2f2;
+  padding-top: 100px;
+  position: relative;
+  min-height: 890px;
+  box-sizing: border-box;
+  background: url(../../images/feynman.png) no-repeat left bottom  #F2F2F2;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-color: #f2f2f2;
 }
